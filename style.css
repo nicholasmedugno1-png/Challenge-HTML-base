@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    border: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: bisque;
+    width: 30%;
+    border-radius: 30px;
+}
+
+img {
+    width: 230px;
+    border-radius: 30px;
+}
+
